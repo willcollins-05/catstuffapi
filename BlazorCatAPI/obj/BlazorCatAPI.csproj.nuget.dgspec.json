@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/plate/RiderProjects/BlazorCatAPI/BlazorCatAPI/BlazorCatAPI.csproj": {}
+    "C:\\Users\\willi\\Desktop\\Coding\\School Work\\.NET\\catstuffapi\\BlazorCatAPI\\BlazorCatAPI.csproj": {}
   },
   "projects": {
-    "/Users/plate/RiderProjects/BlazorCatAPI/BlazorCatAPI/BlazorCatAPI.csproj": {
+    "C:\\Users\\willi\\Desktop\\Coding\\School Work\\.NET\\catstuffapi\\BlazorCatAPI\\BlazorCatAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/plate/RiderProjects/BlazorCatAPI/BlazorCatAPI/BlazorCatAPI.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Desktop\\Coding\\School Work\\.NET\\catstuffapi\\BlazorCatAPI\\BlazorCatAPI.csproj",
         "projectName": "BlazorCatAPI",
-        "projectPath": "/Users/plate/RiderProjects/BlazorCatAPI/BlazorCatAPI/BlazorCatAPI.csproj",
-        "packagesPath": "/Users/plate/.nuget/packages/",
-        "outputPath": "/Users/plate/RiderProjects/BlazorCatAPI/BlazorCatAPI/obj/",
+        "projectPath": "C:\\Users\\willi\\Desktop\\Coding\\School Work\\.NET\\catstuffapi\\BlazorCatAPI\\BlazorCatAPI.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\Desktop\\Coding\\School Work\\.NET\\catstuffapi\\BlazorCatAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/plate/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Micro Focus\\Visual COBOL\\NuGetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,7 +49,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.1, )",
+              "version": "[10.0.0, )",
               "autoReferenced": true
             }
           },
@@ -70,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\willi\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
