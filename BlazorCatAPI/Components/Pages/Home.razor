@@ -68,6 +68,12 @@
             client.DefaultRequestHeaders.Clear();
 
             var apiKey = Configuration["CatApiKey"];
+
+            if (String.IsNullOrWhiteSpace(apiKey)
+            {
+                errorMessage = "You need an api key";   
+                return;
+            }
             
             client.DefaultRequestHeaders.Add("x-api-key", apiKey);
             
