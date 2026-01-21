@@ -69,7 +69,7 @@
 
             var apiKey = Configuration["CatApiKey"];
 
-            if (String.IsNullOrWhiteSpace(apiKey)
+            if (String.IsNullOrWhiteSpace(apiKey))
             {
                 errorMessage = "You need an api key";   
                 return;
